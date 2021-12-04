@@ -1,0 +1,89 @@
+.{
+    margin: ;
+    padding: ;
+
+}
+ .hero{
+    height: 150%;
+    width: 100%;
+    background-image: url(Desert.jpg);
+    background-position: center;
+    background-size: cover;
+    
+}
+.form-box{
+    
+width: 380;
+height: 480;
+position: center;
+margin: 6% auto;
+background: rgb(247, 53, 231);
+padding: 5px;
+
+}
+
+
+.toggle-button {
+    margin-top: 60px;
+    margin-left: 100px;
+        width: 40%;
+        padding: 10px 30px;
+        cursor: pointer;
+        background: linear-gradient(to right, #f54c09, #d2f537);
+      outline: none;
+      position:center;
+     display: block;
+      border-radius: 30px;
+} 
+/* .btn{
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 110px;
+    height: 100%;
+    border-radius: 30px;
+    transition: .5s; */
+}
+
+.input-group {
+    
+    top: 180px;
+    position: absolute;
+    width: 280px;
+    transition: .5s;
+    
+}
+.input-field {
+    width: 50%;
+    padding: 10px 0;
+    margin-top: 60px;
+    margin-left: auto;
+   border-left: 0;
+   border-top: 0;
+   border-right: 0;
+   border-bottom:1px solid #999 ;
+   outline: none;
+   background: transparent;
+color: rgb(14, 13, 13);
+background: linear-gradient(to right, #f54c09, #d2f537);
+}
+.submit-btn{
+    width: 85%;
+    padding: 10px 30px;
+    cursor: pointer;
+    display: block;
+    margin-top: 70px;
+    margin-left: 30px;
+    background: linear-gradient(to right, #ff105f, #ffad06);
+    border: 0;
+    outline: none;
+    border-radius: 30px;
+
+}
+.chack-box{
+    width: 50%;
+    padding: 5px 10px;
+    margin-top: 10px;
+    margin-left: auto;
+    background: linear-gradient(to right, #ff105f, #ffad06);
+}
